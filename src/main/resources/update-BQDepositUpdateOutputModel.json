@@ -1,0 +1,13 @@
+{
+  "depositUpdateActionTaskRecord" : {},
+  "depositUpdateActionTaskReference" : "DUATR729416",
+  "updateResponseRecord" : {},
+  "depositInstanceRecord" : {
+    "depositTransactionValueDate" : "09-22-2018",
+    "depositTransactionPayerProductInstanceReference" : "787583",
+    "depositTransactionCurrency" : "USD",
+    "depositTransactionPayerReference" : "745348",
+    "depositTransactionPayerBankReference" : "744546",
+    "depositTransactionAmount" : "USD 250"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "depositExecuteActionTaskRecord" : {},
+  "depositExecuteActionTaskReference" : "DEATR705657",
+  "executeResponseRecord" : {},
+  "depositInstanceRecord" : {
+    "depositTransactionValueDate" : "09-22-2018"
+  },
+  "depositExecuteRecordReference" : "DERR761974"
+}

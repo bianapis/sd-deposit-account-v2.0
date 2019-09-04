@@ -1,0 +1,34 @@
+{
+  "earlyMaturingRetrieveActionTaskRecord" : {},
+  "earlyMaturingInstanceAnalysis" : {
+    "earlyMaturingInstanceAnalysisReportType" : "earlyMaturingInstanceAnalysisReportType",
+    "earlyMaturingInstanceAnalysisRecord" : {},
+    "earlyMaturingInstanceAnalysisParameters" : "earlyMaturingInstanceAnalysisParameters",
+    "earlyMaturingInstanceAnalysisReport" : {}
+  },
+  "earlyMaturingRetrieveActionTaskReference" : "EMRATR793854",
+  "earlyMaturingInstanceRecord" : {
+    "earlyMaturingPenalty" : "earlyMaturingPenalty",
+    "correspondenceInstanceReference" : "757413",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "752545",
+    "earlyMaturingSettlementPaymentTransactionReference" : {
+      "paymentTransactionPayeeReference" : "745349",
+      "paymentTransactionPayeeBankReference" : "795116",
+      "paymentTransactionFeeCharge" : "USD 250",
+      "paymentTransactionStatus" : "paymentTransactionStatus",
+      "paymentTransactionPayeeAccountReference" : "752747",
+      "paymentTransactionDate" : "09-22-2018",
+      "paymentTransactionAmount" : "USD 250",
+      "paymentTransactionPaymentMechanism" : "paymentTransactionPaymentMechanism"
+    }
+  },
+  "earlyMaturingInstanceReport" : {
+    "earlyMaturingInstanceReportRecord" : {},
+    "earlyMaturingInstanceReportType" : "earlyMaturingInstanceReportType",
+    "earlyMaturingInstanceReportParameters" : "earlyMaturingInstanceReportParameters",
+    "earlyMaturingInstanceReport" : {}
+  },
+  "earlyMaturingRetrieveActionResponse" : "earlyMaturingRetrieveActionResponse"
+}

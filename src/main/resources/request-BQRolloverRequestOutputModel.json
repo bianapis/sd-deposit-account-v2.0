@@ -1,0 +1,14 @@
+{
+  "rolloverRequestActionTaskRecord" : {},
+  "rolloverRequestRecordReference" : "RRRR758449",
+  "rolloverInstanceRecord" : {
+    "productInstanceReference" : "794607",
+    "correspondenceInstanceReference" : "754982",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "depositAccountRolloverRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "795054"
+  },
+  "rolloverRequestActionTaskReference" : "RRATR703444",
+  "requestResponseRecord" : {}
+}

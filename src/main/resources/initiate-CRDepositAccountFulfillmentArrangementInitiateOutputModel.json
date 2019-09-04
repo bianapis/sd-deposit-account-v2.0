@@ -1,0 +1,11 @@
+{
+  "depositAccountFulfillmentArrangementInstanceStatus" : "depositAccountFulfillmentArrangementInstanceStatus",
+  "depositAccountFulfillmentArrangementInitiateActionRecord" : {},
+  "depositAccountFulfillmentArrangementInitiateActionReference" : "DAFAIAR754064",
+  "depositAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "depositAccountFulfillmentArrangementInstanceReference" : "DAFAIR782058"
+}

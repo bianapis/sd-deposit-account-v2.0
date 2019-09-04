@@ -1,0 +1,23 @@
+{
+  "earlyMaturingRequestRecordReference" : "EMRRR759306",
+  "earlyMaturingInstanceRecord" : {
+    "earlyMaturingPenalty" : "earlyMaturingPenalty",
+    "correspondenceInstanceReference" : "775907",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "documentDirectoryEntryInstanceReference" : "783532",
+    "earlyMaturingSettlementPaymentTransactionReference" : {
+      "paymentTransactionPayeeReference" : "716839",
+      "paymentTransactionPayeeBankReference" : "763746",
+      "paymentTransactionFeeCharge" : "USD 250",
+      "paymentTransactionStatus" : "paymentTransactionStatus",
+      "paymentTransactionPayeeAccountReference" : "716823",
+      "paymentTransactionDate" : "09-22-2018",
+      "paymentTransactionAmount" : "USD 250",
+      "paymentTransactionPaymentMechanism" : "paymentTransactionPaymentMechanism"
+    }
+  },
+  "earlyMaturingRequestActionTaskReference" : "EMRATR703629",
+  "earlyMaturingRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,25 @@
+{
+  "rolloverInstanceAnalysis" : {
+    "rolloverInstanceAnalysisParameters" : "rolloverInstanceAnalysisParameters",
+    "rolloverInstanceAnalysisReportType" : "rolloverInstanceAnalysisReportType",
+    "rolloverInstanceAnalysisReport" : {},
+    "rolloverInstanceAnalysisRecord" : {}
+  },
+  "rolloverRetrieveActionTaskRecord" : {},
+  "rolloverRetrieveActionResponse" : "rolloverRetrieveActionResponse",
+  "rolloverInstanceRecord" : {
+    "productInstanceReference" : "789825",
+    "correspondenceInstanceReference" : "787909",
+    "correspondenceContent" : "correspondenceContent",
+    "documentContent" : "documentContent",
+    "depositAccountRolloverRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "744380"
+  },
+  "rolloverInstanceReport" : {
+    "rolloverInstanceReportRecord" : {},
+    "rolloverInstanceReportType" : "rolloverInstanceReportType",
+    "rolloverInstanceReport" : {},
+    "rolloverInstanceReportParameters" : "rolloverInstanceReportParameters"
+  },
+  "rolloverRetrieveActionTaskReference" : "RRATR759524"
+}

@@ -1,0 +1,49 @@
+{
+  "interestRetrieveActionResponse" : "interestRetrieveActionResponse",
+  "interestRetrieveActionTaskReference" : "IRATR750205",
+  "interestInstanceRecord" : {
+    "interestApplicationRecord" : {
+      "interestTransaction" : {
+        "transactionInterestCharge" : "USD 250",
+        "transactionRateType" : "transactionRateType",
+        "transactionDescription" : "transactionDescription"
+      },
+      "interestAccrualAmount" : {
+        "interestAccrualCharge" : "USD 250",
+        "interestAccrualType" : "interestAccrualType"
+      }
+    },
+    "interestRateType" : "interestRateType",
+    "interestRateApplicationSchedule" : "interestRateApplicationSchedule"
+  },
+  "interestRetrieveActionTaskRecord" : {},
+  "depositAccountFulfillmentArrangementInstanceRecord" : {
+    "taxReference" : "762012",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "depositAccountTerm" : "depositAccountTerm",
+    "depositAccountAmount" : "USD 250",
+    "bankBranchLocationReference" : "780090",
+    "depositAccountNumber" : "depositAccountNumber",
+    "productInstanceReference" : "726690",
+    "depositAccountType" : "depositAccountType",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "715415",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "depositAccountCurrency" : "USD",
+    "customerAgreementReference" : "799761",
+    "depositAccountInterestTerms" : "depositAccountInterestTerms"
+  },
+  "interestInstanceReport" : {
+    "interestInstanceReportRecord" : {},
+    "interestInstanceReportParameters" : "interestInstanceReportParameters",
+    "interestInstanceReportType" : "interestInstanceReportType",
+    "interestInstanceReport" : {}
+  },
+  "interestInstanceAnalysis" : {
+    "interestInstanceAnalysisRecord" : {},
+    "interestInstanceAnalysisParameters" : "interestInstanceAnalysisParameters",
+    "interestInstanceAnalysisReportType" : "interestInstanceAnalysisReportType",
+    "interestInstanceAnalysisReport" : {}
+  }
+}

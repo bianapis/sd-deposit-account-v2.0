@@ -1,0 +1,39 @@
+{
+  "serviceFeesInstanceReport" : {
+    "serviceFeesInstanceReport" : {},
+    "serviceFeesInstanceReportType" : "serviceFeesInstanceReportType",
+    "serviceFeesInstanceReportParameters" : "serviceFeesInstanceReportParameters",
+    "serviceFeesInstanceReportRecord" : {}
+  },
+  "serviceFeesInstanceAnalysis" : {
+    "serviceFeesInstanceAnalysisReport" : {},
+    "serviceFeesInstanceAnalysisParameters" : "serviceFeesInstanceAnalysisParameters",
+    "serviceFeesInstanceAnalysisReportType" : "serviceFeesInstanceAnalysisReportType",
+    "serviceFeesInstanceAnalysisRecord" : {}
+  },
+  "serviceFeesRetrieveActionTaskReference" : "SFRATR746606",
+  "serviceFeesRetrieveActionResponse" : "serviceFeesRetrieveActionResponse",
+  "serviceFeesRetrieveActionTaskRecord" : {},
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition",
+      "feeType" : "feeType"
+    },
+    "feeApplicationRecord" : {
+      "feeAccrualAmount" : {
+        "accrualFeeType" : "accrualFeeType",
+        "accrualFeeCharge" : "USD 250"
+      },
+      "feeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionDescription" : "transactionDescription",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "feeProjectionsandCommitments" : {
+        "projectedTransactionDescription" : "projectedTransactionDescription",
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    }
+  }
+}

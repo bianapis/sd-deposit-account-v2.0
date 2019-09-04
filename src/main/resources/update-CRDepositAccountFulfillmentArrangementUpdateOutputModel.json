@@ -1,0 +1,37 @@
+{
+  "depositAccountFulfillmentArrangementUpdateActionTaskReference" : "DAFAUATR773042",
+  "depositAccountFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "depositAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "726178",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "757470",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "depositAccountTerm" : "depositAccountTerm",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "customerCommentary" : "customerCommentary",
+    "depositAccountAmount" : "USD 250",
+    "bankBranchLocationReference" : "772464",
+    "depositAccountNumber" : "depositAccountNumber",
+    "productInstanceReference" : "748614",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "depositAccountType" : "depositAccountType",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "778440",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "depositAccountCurrency" : "USD",
+    "customerAgreementReference" : "730055",
+    "depositAccountInterestTerms" : "depositAccountInterestTerms"
+  }
+}

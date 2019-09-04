@@ -1,0 +1,25 @@
+{
+  "depositRetrieveActionResponse" : "depositRetrieveActionResponse",
+  "depositInstanceReport" : {
+    "depositInstanceReportType" : "depositInstanceReportType",
+    "depositInstanceReportRecord" : {},
+    "depositInstanceReport" : {},
+    "depositInstanceReportParameters" : "depositInstanceReportParameters"
+  },
+  "depositInstanceAnalysis" : {
+    "depositInstanceAnalysisRecord" : {},
+    "depositInstanceAnalysisParameters" : "depositInstanceAnalysisParameters",
+    "depositInstanceAnalysisReport" : {},
+    "depositInstanceAnalysisReportType" : "depositInstanceAnalysisReportType"
+  },
+  "depositRetrieveActionTaskReference" : "DRATR784368",
+  "depositInstanceRecord" : {
+    "depositTransactionValueDate" : "09-22-2018",
+    "depositTransactionPayerProductInstanceReference" : "778258",
+    "depositTransactionCurrency" : "USD",
+    "depositTransactionPayerReference" : "742088",
+    "depositTransactionPayerBankReference" : "765807",
+    "depositTransactionAmount" : "USD 250"
+  },
+  "depositRetrieveActionTaskRecord" : {}
+}

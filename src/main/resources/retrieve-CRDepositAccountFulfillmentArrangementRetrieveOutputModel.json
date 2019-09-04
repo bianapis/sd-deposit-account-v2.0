@@ -1,0 +1,47 @@
+{
+  "depositAccountFulfillmentArrangementInstanceAnalysis" : {
+    "depositAccountFulfillmentArrangementInstanceAnalysisData" : "depositAccountFulfillmentArrangementInstanceAnalysisData",
+    "depositAccountFulfillmentArrangementInstanceAnalysisReport" : {},
+    "depositAccountFulfillmentArrangementInstanceAnalysisReportType" : "depositAccountFulfillmentArrangementInstanceAnalysisReportType"
+  },
+  "depositAccountFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "depositAccountFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "745069",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "757017",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "depositAccountTerm" : "depositAccountTerm",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "customerCommentary" : "customerCommentary",
+    "depositAccountAmount" : "USD 250",
+    "bankBranchLocationReference" : "763151",
+    "depositAccountNumber" : "depositAccountNumber",
+    "productInstanceReference" : "787097",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "depositAccountType" : "depositAccountType",
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "774180",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "depositAccountCurrency" : "USD",
+    "customerAgreementReference" : "754235",
+    "depositAccountInterestTerms" : "depositAccountInterestTerms"
+  },
+  "depositAccountFulfillmentArrangementInstanceReportRecord" : {
+    "depositAccountFulfillmentArrangementInstanceReportData" : "depositAccountFulfillmentArrangementInstanceReportData",
+    "depositAccountFulfillmentArrangementInstanceReport" : {},
+    "depositAccountFulfillmentArrangementInstanceReportType" : "depositAccountFulfillmentArrangementInstanceReportType"
+  },
+  "depositAccountFulfillmentArrangementRetrieveActionTaskReference" : "DAFARATR734924",
+  "depositAccountFulfillmentArrangementRetrieveActionResponse" : "depositAccountFulfillmentArrangementRetrieveActionResponse"
+}
